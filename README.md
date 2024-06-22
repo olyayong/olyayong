@@ -1,5 +1,7 @@
-## Hi there 👋
-- 종강이다!!!!!!!
+## 안녕하세요~^^
+언어와컴퓨터 I 수업을 수강하고 있는 고려대학교 언어학과 20학번 데위앗키나 올가라고 합니다. 
+언어학 전공이지만 0개 국어를 할 줄 압니다. 
+많이 부족하지만 잘 부탁드립니다!!!😄😄😄
 <!--
 **olyayong/olyayong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
