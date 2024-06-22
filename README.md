@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 종강이다!!!!!!!
 <!--
 **olyayong/olyayong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
